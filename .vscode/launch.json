@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run EmployeeCRUD",
+      "request": "launch",
+      "mainClass": "EmployeeCRUD",
+      "vmArgs": "-cp lib/mysql-connector-j-9.0.0.jar;.",
+      "projectName": "EmployeeDBApp"
+    }
+  ]
+}
